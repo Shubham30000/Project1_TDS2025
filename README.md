@@ -194,7 +194,7 @@ This project demonstrates:
 
 ## 📞 Contact
 
-**GitHub**: [@yourusername](https://github.com/Shubham30000)  
+**GitHub**: [@Shubham](https://github.com/Shubham30000)  
 **Email**: 23f2005282@ds.study.iitm.ac.in  
 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shubham-singh-50a90a253/)
 
@@ -215,3 +215,4 @@ MIT License - See [LICENSE](LICENSE) for details
 ⭐ Star this repository if you find it useful!
 
 </div>
+
